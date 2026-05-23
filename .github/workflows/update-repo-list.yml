@@ -1,0 +1,33 @@
+name: Update repository list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-repo-list.yml"
+      - "repo-list.config.json"
+      - "auto_repo_list/**"
+      - "pyproject.toml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+      - run: uv run python -m auto_repo_list build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update repository list"
+          file_pattern: "README.md DOCS.md"

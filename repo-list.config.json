@@ -1,0 +1,9 @@
+{
+  "title": "Repository Catalogue",
+  "description": "An automatically generated list of my public code repositories.",
+  "github": {
+    "username": "taziksh",
+    "includeForksWithStars": true,
+    "minimumForkStars": 1
+  }
+}
