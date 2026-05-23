@@ -116,8 +116,21 @@ def _group_repos(repos: list[Repo], config: Config) -> tuple[list[Repo], list[Re
     return projects, archived
 
 
-def _repo_sort_key(repo: Repo) -> tuple[int, int, str, str]:
-    return (-repo.stars, int(not repo.has_description), repo.pushed_at, repo.name.lower())
+def _repo_sort_key(repo: Repo) -> tuple[int, int, float, str]:
+    return (
+        -repo.stars,
+        int(not repo.has_readme),
+        -_repo_sort_timestamp(repo),
+        repo.name.lower(),
+    )
+
+
+def _repo_sort_timestamp(repo: Repo) -> float:
+    date = repo.pushed_at or repo.updated_at
+    if not date:
+        return 0
+
+    return datetime.fromisoformat(date.replace("Z", "+00:00")).timestamp()
 
 
 def _render_repo_list(repos: list[Repo], show_stars: bool) -> str:

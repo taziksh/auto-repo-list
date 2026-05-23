@@ -23,8 +23,9 @@ def fetch_github_repos(config: GitHubConfig) -> list[Repo]:
             "repo-list.config.json or GITHUB_USERNAME."
         )
 
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
     url = f"{API_ROOT}/users/{quote(username)}/repos?per_page=100&type=owner&sort=updated"
-    repos = [_normalize_repo(repo) for repo in _fetch_all_pages(url)]
+    repos = [_normalize_repo(repo, token) for repo in _fetch_all_pages(url)]
     return repos
 
 
@@ -69,14 +70,16 @@ def _fetch_json(url: str) -> tuple[list[dict[str, Any]], str]:
     return data, link_header
 
 
-def _normalize_repo(repo: dict[str, Any]) -> Repo:
+def _normalize_repo(repo: dict[str, Any], token: str) -> Repo:
     description = repo.get("description")
+    has_description = bool(description and description.strip())
     return Repo(
         provider="github",
         name=repo["name"],
         full_name=repo["full_name"],
         description=description or "No description provided.",
-        has_description=bool(description),
+        has_description=has_description,
+        has_readme=_has_readme(repo["full_name"], token),
         url=repo["html_url"],
         homepage=_normalize_homepage(repo.get("homepage") or ""),
         language=repo.get("language") or "",
@@ -89,6 +92,30 @@ def _normalize_repo(repo: dict[str, Any]) -> Repo:
         archived=repo["archived"],
         disabled=repo.get("disabled", False),
     )
+
+
+def _has_readme(full_name: str, token: str) -> bool:
+    if not token:
+        return False
+
+    url = f"{API_ROOT}/repos/{quote(full_name, safe='/')}/readme"
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "Authorization": f"Bearer {token}",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
+    request = Request(url, headers=headers)
+
+    try:
+        with urlopen(request, timeout=30):
+            return True
+    except HTTPError as error:
+        if error.code == 404:
+            return False
+        body = error.read().decode("utf-8")
+        raise RuntimeError(
+            f"GitHub README request failed ({error.code} {error.reason}): {body}"
+        ) from error
 
 
 def _normalize_homepage(homepage: str) -> str:

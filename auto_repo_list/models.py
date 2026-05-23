@@ -15,6 +15,7 @@ class Repo:
     language: str
     stars: int
     forks: int
+    has_readme: bool = False
     topics: list[str] = field(default_factory=list)
     updated_at: str = ""
     pushed_at: str = ""
