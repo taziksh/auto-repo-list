@@ -141,8 +141,9 @@ def _render_repo_list(repos: list[Repo], show_stars: bool) -> str:
     for repo in repos:
         header = f"{repo.name} ({repo.stars})" if show_stars else repo.name
         homepage = f" ([homepage]({repo.homepage}))" if repo.homepage else ""
-        language = f" - {repo.language}" if repo.language else ""
-        lines.append(f"- [{header}]({repo.url}){homepage} - {repo.description}{language}")
+        details = [value for value in (repo.description, repo.language) if value]
+        suffix = f" - {' - '.join(details)}" if details else ""
+        lines.append(f"- [{header}]({repo.url}){homepage}{suffix}")
 
     return "\n".join(lines) + "\n"
 

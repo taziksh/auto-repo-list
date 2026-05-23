@@ -77,7 +77,7 @@ def _normalize_repo(repo: dict[str, Any], token: str) -> Repo:
         provider="github",
         name=repo["name"],
         full_name=repo["full_name"],
-        description=description or "No description provided.",
+        description=description.strip() if description else "",
         has_description=has_description,
         has_readme=_has_readme(repo["full_name"], token),
         url=repo["html_url"],

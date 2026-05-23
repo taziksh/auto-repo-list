@@ -80,6 +80,24 @@ class RenderMarkdownTests(unittest.TestCase):
             markdown.index("older-with-description"),
         )
 
+    def test_missing_description_is_omitted(self) -> None:
+        markdown = render_markdown(
+            _config(),
+            [
+                _repo(
+                    "no-description",
+                    stars=0,
+                    has_readme=False,
+                    has_description=False,
+                    pushed_at="2026-01-01T00:00:00Z",
+                )
+            ],
+            datetime(2026, 5, 23, tzinfo=timezone.utc),
+        )
+
+        self.assertNotIn("No description provided", markdown)
+        self.assertIn("no-description (0)]", markdown)
+
 
 def _repo(
     name: str,
@@ -93,7 +111,7 @@ def _repo(
         provider="github",
         name=name,
         full_name=f"taziksh/{name}",
-        description="Description" if has_description else "No description provided.",
+        description="Description" if has_description else "",
         has_description=has_description,
         has_readme=has_readme,
         url=f"https://github.com/taziksh/{name}",
