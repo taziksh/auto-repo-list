@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated May 23, 2026, 11:42 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated May 24, 2026, 9:57 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -16,10 +16,10 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
+- [callog (0)](https://github.com/taziksh/callog) - TypeScript
 - [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
 - [beeper-tui (0)](https://github.com/taziksh/beeper-tui) - Terminal UI for Beeper: read and reply across networks via the Beeper Desktop API (Go + Bubble Tea) - Go
-- [callog (0)](https://github.com/taziksh/callog) - TypeScript
 - [gpu-puzzles-04_24_26 (0)](https://github.com/taziksh/gpu-puzzles-04_24_26) - Jupyter Notebook
 - [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - JavaScript
 - [modular-addition (0)](https://github.com/taziksh/modular-addition) - Jupyter Notebook
