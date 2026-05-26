@@ -2,11 +2,11 @@
 
 An automatically generated list of my public code repositories.
 
-Generated May 25, 2026, 10:49 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated May 26, 2026, 10:38 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
-## Projects (67)
+## Projects (69)
 
 > Forks with 1+ star are included; other forks are hidden.
 
@@ -16,6 +16,8 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
+- [flippy-bird (0)](https://github.com/taziksh/flippy-bird) - JavaScript
+- [job-queue (0)](https://github.com/taziksh/job-queue) - Priority job queue with FastAPI, React, SQLite, and Docker - Python
 - [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [callog (0)](https://github.com/taziksh/callog) - TypeScript
 - [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
