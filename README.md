@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Jun 6, 2026, 9:58 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Jun 7, 2026, 10:12 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -16,6 +16,7 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
+- [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - JavaScript
 - [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [flippy-bird (0)](https://github.com/taziksh/flippy-bird) - JavaScript
 - [job-queue (0)](https://github.com/taziksh/job-queue) - Priority job queue with FastAPI, React, SQLite, and Docker - Python
@@ -23,7 +24,6 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
 - [beeper-tui (0)](https://github.com/taziksh/beeper-tui) - Terminal UI for Beeper: read and reply across networks via the Beeper Desktop API (Go + Bubble Tea) - Go
 - [gpu-puzzles-04_24_26 (0)](https://github.com/taziksh/gpu-puzzles-04_24_26) - Jupyter Notebook
-- [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - JavaScript
 - [rtiow-rust (0)](https://github.com/taziksh/rtiow-rust) - Ray tracing in one weekend in Rust - Rust
 - [quran_patterns (0)](https://github.com/taziksh/quran_patterns) - HTML
 - [superposition (0)](https://github.com/taziksh/superposition) - Toy Models of Superposition (https://transformer-circuits.pub/2022/toy_model/index.html) - Python
