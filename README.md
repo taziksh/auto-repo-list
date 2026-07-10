@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Jul 9, 2026, 12:16 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Jul 10, 2026, 12:08 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -16,12 +16,12 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
+- [beeper-tui (0)](https://github.com/taziksh/beeper-tui) - Terminal UI for Beeper - Go
 - [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - Astro
 - [jax-wasm (0)](https://github.com/taziksh/jax-wasm)
 - [quran-frequencies (0)](https://github.com/taziksh/quran-frequencies) - Jupyter Notebook
 - [dotfiles (0)](https://github.com/taziksh/dotfiles) - My dotfiles for vim, tmux, bash, i3. - Shell
-- [beeper-tui (0)](https://github.com/taziksh/beeper-tui) - Terminal UI for Beeper - Go
 - [gbeval (0)](https://github.com/taziksh/gbeval) - Can LLMs autonomously build a working Game Boy (DMG) emulator? - Rust
 - [flippy-bird (0)](https://github.com/taziksh/flippy-bird) - JavaScript
 - [job-queue (0)](https://github.com/taziksh/job-queue) - Priority job queue with FastAPI, React, SQLite, and Docker - Python
