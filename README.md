@@ -2,11 +2,11 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Jul 20, 2026, 11:58 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Jul 21, 2026, 11:19 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
-## Projects (48)
+## Projects (49)
 
 > Forks with 1+ star are included; other forks are hidden.
 
@@ -51,6 +51,7 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [agario-ripoff (0)](https://github.com/taziksh/agario-ripoff) - JavaFX clone of AgarIO. - Java
 - [lamar-game (0)](https://github.com/taziksh/lamar-game) - 👾 Java 2D game ft. Lamar the Lizard. - Java
 - [Manganese (0)](https://github.com/taziksh/Manganese) - OCR to detect speech balloons in Manga panels. - C++
+- [nvimrc (0)](https://github.com/taziksh/nvimrc) - ~/.config - Lua
 - [eczema-keywords (0)](https://github.com/taziksh/eczema-keywords) - HTML
 - [hr-forms (0)](https://github.com/taziksh/hr-forms) ([homepage](https://hr-forms.vercel.app)) - HTML
 - [CleanTransformer (0)](https://github.com/taziksh/CleanTransformer) - Solutions to Neel Nanda's GPT2 notebook - Jupyter Notebook
