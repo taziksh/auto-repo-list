@@ -2,11 +2,11 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Aug 10, 2026, 10:37 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Aug 11, 2026, 10:11 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
-## Projects (50)
+## Projects (52)
 
 > Forks with 1+ star are included; other forks are hidden.
 
@@ -18,10 +18,10 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
-- [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - Astro
-- [jax-wasm (0)](https://github.com/taziksh/jax-wasm)
 - [quran-frequencies (0)](https://github.com/taziksh/quran-frequencies) - Jupyter Notebook
+- [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
+- [jax-wasm (0)](https://github.com/taziksh/jax-wasm)
 - [dotfiles (0)](https://github.com/taziksh/dotfiles) - My dotfiles for vim, tmux, bash, i3. - Shell
 - [gbeval (0)](https://github.com/taziksh/gbeval) - Can LLMs autonomously build a working Game Boy (DMG) emulator? - Rust
 - [flippy-bird (0)](https://github.com/taziksh/flippy-bird) - JavaScript
@@ -29,6 +29,7 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [callog (0)](https://github.com/taziksh/callog) - TypeScript
 - [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
 - [gpu-puzzles-04_24_26 (0)](https://github.com/taziksh/gpu-puzzles-04_24_26) - Jupyter Notebook
+- [s-expressions-04_18_2026 (0)](https://github.com/taziksh/s-expressions-04_18_2026) - Python
 - [rtiow-rust (0)](https://github.com/taziksh/rtiow-rust) - Ray tracing in one weekend in Rust - Rust
 - [quran_patterns (0)](https://github.com/taziksh/quran_patterns) - HTML
 - [superposition (0)](https://github.com/taziksh/superposition) - Toy Models of Superposition (https://transformer-circuits.pub/2022/toy_model/index.html) - Python
@@ -45,6 +46,7 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [earbug-frontend (0)](https://github.com/taziksh/earbug-frontend) - 🎵 Find that song stuck in your head. - JavaScript
 - [snipchat (0)](https://github.com/taziksh/snipchat) - PureBasic
 - [shopify-challenge-2021 (0)](https://github.com/taziksh/shopify-challenge-2021) - Image repository built with Ruby on Rails and Cloudinary API for Shopify Challenge Summer 2021. - Ruby
+- [shopipy (0)](https://github.com/taziksh/shopipy) - Easily find best price for a given product. - Python
 - [castodia (0)](https://github.com/taziksh/castodia) - Python
 - [chip_8_emu (0)](https://github.com/taziksh/chip_8_emu) - Interpreter for the Chip 8. - C++
 - [blender-chatbot (0)](https://github.com/taziksh/blender-chatbot) - Jupyter Notebook
