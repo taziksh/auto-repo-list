@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Aug 18, 2026, 9:48 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Aug 19, 2026, 9:49 AM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -11,8 +11,8 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 > Forks with 1+ star are included; other forks are hidden.
 
 - [hayasaka.ai (22)](https://github.com/taziksh/hayasaka.ai) ([homepage](https://hayasaka-ai.vercel.app)) - 👱‍♀️GAN generated Hayasaka Ai. - Jupyter Notebook
+- [catan-llm (2)](https://github.com/taziksh/catan-llm) - training LMs to win catan - Python
 - [beeper-tui (1)](https://github.com/taziksh/beeper-tui) - Terminal UI for Beeper - Go
-- [catan-llm (1)](https://github.com/taziksh/catan-llm) - training LMs to win catan - Python
 - [GenerativeZellij (1)](https://github.com/taziksh/GenerativeZellij) - Figma generative art patterns - JavaScript
 - [breatheboxing-ayo (1)](https://github.com/taziksh/breatheboxing-ayo) ([homepage](https://3cbf421f-ad1f-4de4-b978-d9ac740c9314-00-a1z5ugxbmuzk.riker.replit.dev/)) - Cure for anxiety - JavaScript
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
