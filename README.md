@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Sep 1, 2026, 2:09 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Sep 2, 2026, 1:41 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -13,14 +13,14 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [hayasaka.ai (22)](https://github.com/taziksh/hayasaka.ai) ([homepage](https://hayasaka-ai.vercel.app)) - 👱‍♀️GAN generated Hayasaka Ai. - Jupyter Notebook
 - [catan-llm (2)](https://github.com/taziksh/catan-llm) - training LMs to win catan - Python
 - [beeper-tui (1)](https://github.com/taziksh/beeper-tui) - Terminal UI for Beeper - Go
+- [quran-frequencies (1)](https://github.com/taziksh/quran-frequencies) - Jupyter Notebook
 - [GenerativeZellij (1)](https://github.com/taziksh/GenerativeZellij) - Figma generative art patterns - JavaScript
 - [breatheboxing-ayo (1)](https://github.com/taziksh/breatheboxing-ayo) ([homepage](https://3cbf421f-ad1f-4de4-b978-d9ac740c9314-00-a1z5ugxbmuzk.riker.replit.dev/)) - Cure for anxiety - JavaScript
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
-- [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - Astro
 - [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
-- [quran-frequencies (0)](https://github.com/taziksh/quran-frequencies) - Jupyter Notebook
+- [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - Astro
 - [jax-wasm (0)](https://github.com/taziksh/jax-wasm)
 - [dotfiles (0)](https://github.com/taziksh/dotfiles) - My dotfiles for vim, tmux, bash, i3. - Shell
 - [gbeval (0)](https://github.com/taziksh/gbeval) - Can LLMs autonomously build a working Game Boy (DMG) emulator? - Rust
