@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Sep 10, 2026, 1:37 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Sep 11, 2026, 1:35 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -11,7 +11,7 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 > Forks with 1+ star are included; other forks are hidden.
 
 - [hayasaka.ai (22)](https://github.com/taziksh/hayasaka.ai) ([homepage](https://hayasaka-ai.vercel.app)) - 👱‍♀️GAN generated Hayasaka Ai. - Jupyter Notebook
-- [catan-llm (2)](https://github.com/taziksh/catan-llm) - training LMs to win catan - Python
+- [catan-llm (3)](https://github.com/taziksh/catan-llm) - training LMs to win catan - Python
 - [beeper-tui (1)](https://github.com/taziksh/beeper-tui) - Terminal UI for Beeper - Go
 - [quran-frequencies (1)](https://github.com/taziksh/quran-frequencies) - Jupyter Notebook
 - [GenerativeZellij (1)](https://github.com/taziksh/GenerativeZellij) - Figma generative art patterns - JavaScript
