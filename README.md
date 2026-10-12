@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Oct 11, 2026, 3:42 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Oct 12, 2026, 7:04 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -19,6 +19,7 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
+- [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
 - [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - HTML
 - [jax-wasm (0)](https://github.com/taziksh/jax-wasm)
@@ -27,7 +28,6 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [flippy-bird (0)](https://github.com/taziksh/flippy-bird) - JavaScript
 - [job-queue (0)](https://github.com/taziksh/job-queue) - Priority job queue with FastAPI, React, SQLite, and Docker - Python
 - [callog (0)](https://github.com/taziksh/callog) - TypeScript
-- [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
 - [gpu-puzzles-04_24_26 (0)](https://github.com/taziksh/gpu-puzzles-04_24_26) - Jupyter Notebook
 - [s-expressions-04_18_2026 (0)](https://github.com/taziksh/s-expressions-04_18_2026) - Python
 - [rtiow-rust (0)](https://github.com/taziksh/rtiow-rust) - Ray tracing in one weekend in Rust - Rust
