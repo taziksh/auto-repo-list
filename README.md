@@ -2,11 +2,11 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Oct 29, 2026, 4:08 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Oct 30, 2026, 3:56 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
-## Projects (52)
+## Projects (53)
 
 > Forks with 1+ star are included; other forks are hidden.
 
@@ -19,6 +19,7 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [collusion-environment (1)](https://github.com/taziksh/collusion-environment) - Study of Collusion (ECE 493 - Game Theory) - Python
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
+- [open-science-sync (0)](https://github.com/taziksh/open-science-sync) - Scheduled syncs for open science datasets on Hugging Face
 - [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - HTML
 - [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
