@@ -2,11 +2,11 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Nov 5, 2026, 5:25 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Nov 6, 2026, 4:47 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
-## Projects (53)
+## Projects (52)
 
 > Forks with 1+ star are included; other forks are hidden.
 
@@ -24,7 +24,6 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - HTML
 - [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
 - [jax-wasm (0)](https://github.com/taziksh/jax-wasm)
-- [dotfiles (0)](https://github.com/taziksh/dotfiles) - My dotfiles for vim, tmux, bash, i3. - Shell
 - [gbeval (0)](https://github.com/taziksh/gbeval) - Can LLMs autonomously build a working Game Boy (DMG) emulator? - Rust
 - [flippy-bird (0)](https://github.com/taziksh/flippy-bird) - JavaScript
 - [job-queue (0)](https://github.com/taziksh/job-queue) - Priority job queue with FastAPI, React, SQLite, and Docker - Python
