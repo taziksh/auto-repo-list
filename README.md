@@ -2,7 +2,7 @@
 
 An automatically generated list of my public code repositories.
 
-Generated Nov 10, 2026, 5:04 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
+Generated Nov 11, 2026, 5:08 PM UTC from GitHub user [taziksh](https://github.com/taziksh).
 
 Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/tristan-f-r.github.io).
 
@@ -20,8 +20,8 @@ Inspired by [tristan-f-r/tristan-f-r.github.io](https://github.com/tristan-f-r/t
 - [recette-app (1)](https://github.com/taziksh/recette-app) - Hack the 6ix 2021. Recette takes care of receipts, recipes and the rest. - JavaScript
 - [mgci-announcements (1)](https://github.com/taziksh/mgci-announcements) ([homepage](https://schoolweb.tdsb.on.ca/marcgarneau/School-Life/Announcements)) - 📺 Official announcements system for Marc Garneau C.I. - JavaScript
 - [open-science-sync (0)](https://github.com/taziksh/open-science-sync) - Scheduled syncs for open science datasets on Hugging Face
-- [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [taziksh.github.io (0)](https://github.com/taziksh/taziksh.github.io) ([homepage](https://tazik.sh)) - HTML
+- [auto-repo-list (0)](https://github.com/taziksh/auto-repo-list) - Python
 - [proton-mail-when-ready (0)](https://github.com/taziksh/proton-mail-when-ready) - JavaScript
 - [jax-wasm (0)](https://github.com/taziksh/jax-wasm)
 - [gbeval (0)](https://github.com/taziksh/gbeval) - Can LLMs autonomously build a working Game Boy (DMG) emulator? - Rust
